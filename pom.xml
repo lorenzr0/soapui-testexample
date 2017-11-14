@@ -37,6 +37,7 @@
                             <outputFolder>target/surefire-reports</outputFolder>
                             <junitReport>true</junitReport>
 			    <exportwAll>true</exportwAll>
+			    <exportAll>true</exportAll>
 			    <printReport>true</printReport>
                             <testFailIgnore>true</testFailIgnore>
                             <projectProperties>
