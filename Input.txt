@@ -1,0 +1,4 @@
+blue
+cat
+dog
+red
