@@ -33,7 +33,7 @@
                             <goal>test</goal>
                         </goals>
                         <configuration>
-                            <projectFile>simple-test-soapui-project.xml</projectFile>
+                            <projectFile>public-doc-registered-soapui-project.xml</projectFile>
                             <outputFolder>target/surefire-reports</outputFolder>
                             <junitReport>true</junitReport>
 			    <exportwAll>true</exportwAll>
